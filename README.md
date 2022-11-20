@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @LunaFeijoo97
-- 👀 I’m interested in learning, making small projects and having fun with my code!
-- 🌱 I’m currently learning Front End with React orientation 
-- 💞️ I’m looking to collaborate on small projects 
+- 👋 Hi, I’m @LunaFeijoo97 or just Luna.
+- 👀 I’m interested in learning, experimenting and making small little projects to having fun with my code!
+- 🌱 I’m currently learning Front End with React orientation! 
+- 💞️ I’m looking to expand my knowledge and keep on learning new things!
+- 💻 I'm currently employed as a Lead in a NOC team but I'm on the hunt for new job opportunities!  
 
 
 <!---
